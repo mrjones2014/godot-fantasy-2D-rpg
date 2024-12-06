@@ -1,0 +1,6 @@
+# Ignore everything (i.e. user-specific configs) by default
+*
+# But bring back the files we actually _do_ want to be shared
+!/.gitignore
+!/README.md
+!/envrc_default
